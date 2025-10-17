@@ -54,9 +54,9 @@ Para visualizar este layout:
 
 ### 🎬 Demonstração
 
-**➡️ IMPORTANTE:** Substitua o link abaixo por um screenshot do seu app rodando!
-
-Imagem como "print"
+<p align="center">
+  <img src="print.png" alt="Print da interface do Spotify" width="600">
+</p>
 
 <summary><strong>💡 Análise da Estrutura do Layout (Write-up)</strong></summary>
 <br>
